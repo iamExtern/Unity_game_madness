@@ -1,4 +1,4 @@
-![Обложка](Preview/Promo/cover800x470_en.png)
+![](Preview/Promo/cover800x470_en.png)
 
 # Геймплей/Игровые механики
 3D-игра от первого лица.
@@ -52,8 +52,17 @@ public enum EventType
 }
 ```
 #### Видео-демонстрация (dev log видео)
-[<video src="Preview/Videos/Dev Video 2024.11.06.mp4" controls width="100%"></video>](https://github.com/user-attachments/assets/5c7953f7-21a5-425f-a3ac-8a0294315528)
+<video src="https://github.com/user-attachments/assets/5c7953f7-21a5-425f-a3ac-8a0294315528" controls="controls" style="max-width: 100%;">
+</video>
 
 ## Геймплей-видео
 Данное видео использовалось как промо-материал для публикации на Яндекс.Игры и по правилам платформы на тот момент, оно не содержит пугающего материала.
+<video src="https://github.com/user-attachments/assets/3e483d94-27da-4ebe-b34c-df894a0d15b8" controls="controls" style="max-width: 100%;">
+</video>
 
+# Скриншоты
+![](Preview/Promo/Screenshots/pc/pc_screen_1.jpg)
+![](Preview/Promo/Screenshots/pc/pc_screen_2.jpg)
+![](Preview/Promo/Screenshots/pc/pc_screen_3.jpg)
+![](Preview/Promo/Screenshots/pc/pc_screen_4.jpg)
+![](Preview/Promo/Screenshots/pc/screen_5_ru.jpg)
