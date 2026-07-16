@@ -52,4 +52,8 @@ public enum EventType
 }
 ```
 #### Видео-демонстрация (dev log видео)
-<video src="Preview/Videos/Dev Video 2024.11.06.mp4" controls width="100%"></video>
+[<video src="Preview/Videos/Dev Video 2024.11.06.mp4" controls width="100%"></video>](https://github.com/user-attachments/assets/5c7953f7-21a5-425f-a3ac-8a0294315528)
+
+## Геймплей-видео
+Данное видео использовалось как промо-материал для публикации на Яндекс.Игры и по правилам платформы на тот момент, оно не содержит пугающего материала.
+
